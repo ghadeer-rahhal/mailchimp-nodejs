@@ -1,0 +1,5 @@
+{
+    "apiKey": "MAILCHIMP_KEY",
+    "list": "LIST_NAME",
+    "email": "EMAIL_TO_UNSUBSCRIBE"
+}

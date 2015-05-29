@@ -1,0 +1,12 @@
+{
+  "name": "mailchimp-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "author": "Ghadeer Rahhal",
+  "license": "ISC",
+  "dependencies": {
+    "mailchimp": "^1.1.0",
+    "q": "^1.4.1"
+  }
+}
